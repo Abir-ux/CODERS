@@ -23,6 +23,62 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.like-counter {
+    color: #000;
+    text-decoration: none;
+    margin-right: 5px;
+      
+    &:hover {
+      text-decoration: underline;
+    }
+  
+  }
+  .liked {
+    font-weight: bold;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*footer*/
 .col_white_amrc { color:#FFF;}
 footer { width:100%; background-color:#263238; min-height:250px; padding:10px 0px 25px 0px ;}
